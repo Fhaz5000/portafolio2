@@ -53,7 +53,7 @@ body{
     
 }
 .toogle-menu,
-.info-content_subtitle,.info-content .sotial-networks{
+.info-content__subtitle,.info-content .sotial-networks{
     display: none;
 }
 .main{
